@@ -1,4 +1,5 @@
-![WhatsApp Image 2025-04-22 at 1 41 33 PM](https://github.com/user-attachments/assets/b91bfce9-78f6-4010-b007-9072164b1f81)
+![Screenshot (249)](https://github.com/user-attachments/assets/c4b0e408-a7ac-4bc3-b6f5-97668a7c9972)
+
 Edge TTS Text-to-Speech Gradio App
 
 This project is a Text-to-Speech (TTS) web application built with Gradio and powered by Microsoft Edge TTS voices.
